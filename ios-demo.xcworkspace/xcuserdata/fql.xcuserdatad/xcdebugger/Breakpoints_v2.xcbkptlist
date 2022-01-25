@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "03751D17-6191-4D9D-A24F-A742E7262E6F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAD32810-1CCD-4D22-A895-483896BB944A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuth2Swift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "authorize(withCallbackURL:scope:state:parameters:headers:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05EDCDB1-5483-4128-88D9-2E9125AF5B3F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuthSwift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "handle(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30595DB2-92B4-4BDC-B0C9-533BDD0065D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-demo/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "applicationHandle(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8711BBE-F7C2-4EE7-AB3C-445E3C34B808"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuth2Swift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "authorize(withCallbackURL:scope:state:parameters:headers:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF06B0A4-4BEF-401B-B46B-EB08E062CD37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuthSwift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "handle(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E73C1A5-8D2B-478C-955E-ECCC7A8F5251"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuth2Swift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "authorize(withCallbackURL:scope:state:parameters:headers:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E73C1A5-8D2B-478C-955E-ECCC7A8F5251 - 9cc99a595ff76453"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OAuthSwift.OAuth2Swift.authorize(withCallbackURL: Swift.Optional&lt;OAuthSwift.URLConvertible&gt;, scope: Swift.String, state: Swift.String, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, completionHandler: (Swift.Result&lt;(credential: OAuthSwift.OAuthSwiftCredential, response: Swift.Optional&lt;OAuthSwift.OAuthSwiftResponse&gt;, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;), OAuthSwift.OAuthSwiftError&gt;) -&gt; ()) -&gt; Swift.Optional&lt;OAuthSwift.OAuthSwiftRequestHandle&gt;"
+                  moduleName = "OAuthSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/Pods/OAuthSwift/Sources/OAuth2Swift.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "4532">
+               </Location>
+               <Location
+                  uuid = "9E73C1A5-8D2B-478C-955E-ECCC7A8F5251 - 9cc99a595ff76453"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OAuthSwift.OAuth2Swift.authorize(withCallbackURL: Swift.Optional&lt;OAuthSwift.URLConvertible&gt;, scope: Swift.String, state: Swift.String, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, completionHandler: (Swift.Result&lt;(credential: OAuthSwift.OAuthSwiftCredential, response: Swift.Optional&lt;OAuthSwift.OAuthSwiftResponse&gt;, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;), OAuthSwift.OAuthSwiftError&gt;) -&gt; ()) -&gt; Swift.Optional&lt;OAuthSwift.OAuthSwiftRequestHandle&gt;"
+                  moduleName = "OAuthSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/Pods/OAuthSwift/Sources/OAuth2Swift.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "4520">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E008125A-AB41-451C-A21D-4755BB8FF597"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuth2Swift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "authorize(withCallbackURL:scope:state:parameters:headers:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E008125A-AB41-451C-A21D-4755BB8FF597 - 9cc99a595ff711ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OAuthSwift.OAuth2Swift.authorize(withCallbackURL: Swift.Optional&lt;OAuthSwift.URLConvertible&gt;, scope: Swift.String, state: Swift.String, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, completionHandler: (Swift.Result&lt;(credential: OAuthSwift.OAuthSwiftCredential, response: Swift.Optional&lt;OAuthSwift.OAuthSwiftResponse&gt;, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;), OAuthSwift.OAuthSwiftError&gt;) -&gt; ()) -&gt; Swift.Optional&lt;OAuthSwift.OAuthSwiftRequestHandle&gt;"
+                  moduleName = "OAuthSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/Pods/OAuthSwift/Sources/OAuth2Swift.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1580">
+               </Location>
+               <Location
+                  uuid = "E008125A-AB41-451C-A21D-4755BB8FF597 - b16889c1c3dfd577"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.URL) -&gt; () in OAuthSwift.OAuth2Swift.authorize(withCallbackURL: Swift.Optional&lt;OAuthSwift.URLConvertible&gt;, scope: Swift.String, state: Swift.String, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, completionHandler: (Swift.Result&lt;(credential: OAuthSwift.OAuthSwiftCredential, response: Swift.Optional&lt;OAuthSwift.OAuthSwiftResponse&gt;, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;), OAuthSwift.OAuthSwiftError&gt;) -&gt; ()) -&gt; Swift.Optional&lt;OAuthSwift.OAuthSwiftRequestHandle&gt;"
+                  moduleName = "OAuthSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/Pods/OAuthSwift/Sources/OAuth2Swift.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F00F636-6A0F-48BE-9880-152FACCEF4EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuth2Swift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "authorize(withCallbackURL:scope:state:parameters:headers:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F364A3F4-9F4C-4C67-847F-B61AAC03723F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-demo/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "application(_:open:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18B61DA7-3BFA-4A27-93B7-4CB50CA60A5A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuthSwift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "handle(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF3FD146-D318-4A76-B288-2E92CBDDFA7D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-demo/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "AF3FD146-D318-4A76-B288-2E92CBDDFA7D - 64cf6faa157afffc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_demo.AppDelegate.__allocating_init() -&gt; ios_demo.AppDelegate"
+                  moduleName = "ios-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/ios-demo/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "AF3FD146-D318-4A76-B288-2E92CBDDFA7D - e864b1123b08c6bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_demo.AppDelegate.init() -&gt; ios_demo.AppDelegate"
+                  moduleName = "ios-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/ios-demo/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "AF3FD146-D318-4A76-B288-2E92CBDDFA7D - a9d3b31321fce2f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_demo.AppDelegate.__deallocating_deinit"
+                  moduleName = "ios-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/ios-demo/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "AF3FD146-D318-4A76-B288-2E92CBDDFA7D - 981708b83c2f73e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ios-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/ios-demo/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A5C7FEC-B82E-468C-B736-DEB59ECAC455"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuth2Swift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "authorize(withCallbackURL:scope:state:parameters:headers:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51BB4A0D-221F-4956-A438-D6DCAB16F7DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/Handler/OAuthSwiftOpenURLExternally.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "handle(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD6A7E08-AC68-46B4-9E93-B61D32BC4CE6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/Handler/SafariURLHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "handle(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BCB3A43-E68B-4174-B542-F96FB2F1DE57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuth2Swift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "authorize(withCallbackURL:scope:state:parameters:headers:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B02D85B-61EA-42B3-8430-3620644CAC5C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuth2Swift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "authorize(withCallbackURL:scope:state:parameters:headers:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F77FFD4-4073-4FDC-9771-7459CA91E45D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuthSwiftClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "252"
+            endingLineNumber = "252"
+            landmarkName = "requestOAuthAccessToken(accessTokenUrl:withParameters:headers:contentType:accessTokenBasicAuthentification:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31417732-B14D-4B2F-9F4E-3E9A4F5C3B09"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuthSwiftClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "250"
+            endingLineNumber = "250"
+            landmarkName = "requestOAuthAccessToken(accessTokenUrl:withParameters:headers:contentType:accessTokenBasicAuthentification:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE6FC7D2-AE49-4617-823C-A678144FB992"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuthSwiftClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "251"
+            endingLineNumber = "251"
+            landmarkName = "requestOAuthAccessToken(accessTokenUrl:withParameters:headers:contentType:accessTokenBasicAuthentification:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CA8BFB5-1DC9-48A9-9872-19D6F129A768"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-demo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "logoutClick(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBC18023-5AFC-4FDE-AD97-98DCA7638755"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuth2Swift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "authorize(withCallbackURL:scope:state:parameters:headers:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76B21924-3719-4496-A42E-A1F6C672CB17"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/Handler/SafariURLHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "handle(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B8F9E6B-EA1F-462F-AB3B-E0325B8F6672"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuth2Swift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "authorize(withCallbackURL:scope:state:parameters:headers:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9335FE9E-F769-4209-B67A-AD0FCB0ABD87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-demo/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92131FA4-9700-4B7C-A237-5E4B155EB479"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-demo/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "applicationDidFinishLaunching(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B43D8F5-6B23-4276-AC41-D75E9382F82A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/Handler/SafariURLHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "safariViewController(_:activityItemsFor:title:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5869A7BC-D92D-4104-9A44-CBB55EB07B6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/Handler/SafariURLHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "safariViewControllerDidFinish(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5869A7BC-D92D-4104-9A44-CBB55EB07B6B - cb934c1d81c08fe6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OAuthSwift.SafariURLHandler.safariViewControllerDidFinish(__C.SFSafariViewController) -&gt; ()"
+                  moduleName = "OAuthSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/Pods/OAuthSwift/Sources/Handler/SafariURLHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "5869A7BC-D92D-4104-9A44-CBB55EB07B6B - cb934c1d81c08f01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OAuthSwift.SafariURLHandler.safariViewControllerDidFinish(__C.SFSafariViewController) -&gt; ()"
+                  moduleName = "OAuthSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/Pods/OAuthSwift/Sources/Handler/SafariURLHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EEA6A6D-B5F0-4115-AEB6-B56EE31B268B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/Handler/SafariURLHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "safariViewController(_:didCompleteInitialLoad:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4EEA6A6D-B5F0-4115-AEB6-B56EE31B268B - 6c2223ecf11030b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OAuthSwift.SafariURLHandler.safariViewController(_: __C.SFSafariViewController, didCompleteInitialLoad: Swift.Bool) -&gt; ()"
+                  moduleName = "OAuthSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/Pods/OAuthSwift/Sources/Handler/SafariURLHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "4EEA6A6D-B5F0-4115-AEB6-B56EE31B268B - 6c2223ecf1103094"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OAuthSwift.SafariURLHandler.safariViewController(_: __C.SFSafariViewController, didCompleteInitialLoad: Swift.Bool) -&gt; ()"
+                  moduleName = "OAuthSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/Pods/OAuthSwift/Sources/Handler/SafariURLHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B93496A-926E-4C45-A23F-8A87CBFCA491"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/Handler/SafariURLHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "safariViewControllerDidFinish(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5140E298-BD5D-47E9-8363-1C54049ED524"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuth2Swift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "authorize(withCallbackURL:scope:state:parameters:headers:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFD456E3-A0DF-4ECB-8CB4-E746E1AD7D84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-demo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "doOAuthCiam()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD5C9A37-4213-40C2-A3D8-6447F9A5E3F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/OAuthSwiftClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "requestOAuthAccessToken(accessTokenUrl:withParameters:headers:contentType:accessTokenBasicAuthentification:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BD5C9A37-4213-40C2-A3D8-6447F9A5E3F3 - d02f595903955f5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OAuthSwift.OAuthSwiftClient.requestOAuthAccessToken(accessTokenUrl: Swift.Optional&lt;OAuthSwift.URLConvertible&gt;, withParameters: Swift.Dictionary&lt;Swift.String, Any&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, contentType: Swift.Optional&lt;Swift.String&gt;, accessTokenBasicAuthentification: Swift.Bool, completionHandler: (Swift.Result&lt;(credential: OAuthSwift.OAuthSwiftCredential, response: Swift.Optional&lt;OAuthSwift.OAuthSwiftResponse&gt;, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;), OAuthSwift.OAuthSwiftError&gt;) -&gt; ()) -&gt; Swift.Optional&lt;OAuthSwift.OAuthSwiftRequestHandle&gt;"
+                  moduleName = "OAuthSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/Pods/OAuthSwift/Sources/OAuthSwiftClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "214"
+                  endingLineNumber = "214"
+                  offsetFromSymbolStart = "840">
+               </Location>
+               <Location
+                  uuid = "BD5C9A37-4213-40C2-A3D8-6447F9A5E3F3 - 338bb03e142db02e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;OAuthSwift.OAuthSwiftResponse, OAuthSwift.OAuthSwiftError&gt;) -&gt; () in OAuthSwift.OAuthSwiftClient.requestOAuthAccessToken(accessTokenUrl: Swift.Optional&lt;OAuthSwift.URLConvertible&gt;, withParameters: Swift.Dictionary&lt;Swift.String, Any&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, contentType: Swift.Optional&lt;Swift.String&gt;, accessTokenBasicAuthentification: Swift.Bool, completionHandler: (Swift.Result&lt;(credential: OAuthSwift.OAuthSwiftCredential, response: Swift.Optional&lt;OAuthSwift.OAuthSwiftResponse&gt;, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;), OAuthSwift.OAuthSwiftError&gt;) -&gt; ()) -&gt; Swift.Optional&lt;OAuthSwift.OAuthSwiftRequestHandle&gt;"
+                  moduleName = "OAuthSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/Pods/OAuthSwift/Sources/OAuthSwiftClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "214"
+                  endingLineNumber = "214"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF8C51FB-D804-4FC2-9A27-6C8DB5F6332F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-demo/WebViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "webView(_:decidePolicyFor:decisionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E6726E3-C10F-4BCD-B35A-3C1D26B71D9C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/Handler/SafariURLHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "safariViewController(_:initialLoadDidRedirectTo:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E6726E3-C10F-4BCD-B35A-3C1D26B71D9C - 6c2223ecf11030d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OAuthSwift.SafariURLHandler.safariViewController(_: __C.SFSafariViewController, didCompleteInitialLoad: Swift.Bool) -&gt; ()"
+                  moduleName = "OAuthSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/Pods/OAuthSwift/Sources/Handler/SafariURLHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "0E6726E3-C10F-4BCD-B35A-3C1D26B71D9C - a78f585102a6f8b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OAuthSwift.SafariURLHandler.safariViewController(_: __C.SFSafariViewController, initialLoadDidRedirectTo: Foundation.URL) -&gt; ()"
+                  moduleName = "OAuthSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fql/Desktop/ios-demo/Pods/OAuthSwift/Sources/Handler/SafariURLHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BB03BC2-15A5-4A23-9A74-FFEF4CD3D6B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OAuthSwift/Sources/Handler/SafariURLHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "SafariURLHandler"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4435B962-AE6D-4749-BC02-92DC9BE7F386"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-demo/WebViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "loadAddressURL()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D25BBE3F-A128-4122-B63F-A3184B7430A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-demo/WebViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "handle(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
